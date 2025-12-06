@@ -1,0 +1,5 @@
+{
+  "name": "Nebula Engine",
+  "description": "A web-based visual node scripting environment simulating a C++ game engine. Create logic graphs, visualize real-time rendering, and export generated C++ component code.",
+  "requestFramePermissions": []
+}
